@@ -1,0 +1,236 @@
+@media screen and (min-width: 1025px) {
+    .flex-container > div {
+       
+        height: 665px;
+        margin: 10px;
+    }
+    .h3 {
+        padding: 15px;
+        font-size: 30px;
+    }
+    .nursary {
+        font-size: 25px;
+    }
+    .traker {
+        font-size: 30px;
+    }
+    .observation {
+        padding: 10px;
+        font-size: 30px;
+    }
+    .headingTag {
+        text-align: left;
+        margin-bottom: 5px;
+        font-size: 30px;
+    }
+    .bg {
+        padding: 14px;
+        font-size: 30px;
+    }
+    .font {
+        font-size: 15px;
+    }
+    .back {
+        padding: 16px;
+        font-size: 30px;
+    }
+    .footer {
+        padding: 16px;
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .section {
+        margin-top: -80px;
+        font-size: 25px;
+    }
+    .phone {
+        margin-left: 250px;
+    }
+    .logo {
+        margin-left: 20px;
+    }
+    .EES {
+        font-size: 30px;
+    }
+    .forSchool {
+        margin-right: 260px;
+    }
+    .emailSection {
+        margin-left: 120px;
+    }
+    nav {
+        margin-left: 15px;
+        margin-right: 5px;
+    }
+    #navLinks {
+        margin-left: 600px;
+    }
+    .flex-container > div {
+        width: 250px;
+        height: 620px;
+        margin: 10px;
+    }
+    .h3 {
+        padding: 15px;
+    }
+    .nursary {
+        font-size: 15px;
+    }
+    .observation {
+        padding: 10px;
+    }
+    .link {
+        line-height: 30px;
+        font-size: 18px;
+    }
+    .heading {
+        font-size: 15px;
+    }
+    .headingTag {
+        text-align: left;
+        margin-bottom: 5px;
+        font-size: 30px;
+    }
+    .bg {
+        padding: 14px;
+    }
+    .font {
+        font-size: 11px;
+    }
+    .back {
+        padding: 16px;
+    }
+    .footer {
+        padding: 16px;
+    }
+}
+@media screen and (max-width: 667px) {
+    .bgImage {
+        width: 450px;
+    }
+    .section {
+        margin-top: -110px;
+        font-size: 25px;
+    }
+    .phone {
+        margin-left: 10px;
+    }
+    .logout {
+        margin-left: 30px;
+    }
+    .logo {
+        margin-left: 5px;
+    }
+    .EES {
+        font-size: 30px;
+    }
+    .forSchool {
+        margin-right: 30px;
+    }
+    .emailSection {
+        margin-left: 120px;
+        margin-top: 400px;
+    }
+    nav {
+        margin-left: 15px;
+        margin-right: 0px;
+        width: 449px;
+    }
+    #navLinks {
+        margin-left: 200px;
+    }
+
+    .flex-container {
+        flex-direction: column;
+        display: flex;
+        align-items: stretch;
+    }
+    .flex-container > div {
+        height: 613px;
+
+        text-align: center;
+    }
+
+    #targetTraker {
+        width: 450px;
+    }
+    .h3 {
+        padding: 15px;
+        border-radius: 20px 20px 0px 0px;
+        font-size: 30px;
+    }
+    .nursary {
+        font-size: 20px;
+    }
+    .traker {
+        font-size: 30px;
+    }
+    .observation {
+        padding: 10px;
+        font-size: 30px;
+    }
+    .link {
+        line-height: 35px;
+        font-size: 25px;
+    }
+
+    #marblePainting {
+        width: 450px;
+        margin-top: 0px;
+    }
+
+    .heading {
+        font-size: 15px;
+        font-size: 16px;
+    }
+    .headingTag {
+        text-align: left;
+        margin-bottom: 5px;
+        font-size: 30px;
+    }
+    .button {
+        padding: 2px 2px;
+        font-size: 16px;
+        margin: 35px;
+        padding: 8px;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+    .button1 {
+        padding: 2px 2px;
+        font-size: 16px;
+        margin: 35px;
+        padding: 8px;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+
+    .fontSize {
+        font-size: 13px;
+        margin-left: 30px;
+        margin-top: 35px;
+    }
+
+    #latestNewsSection {
+        width: 450px;
+    }
+
+    .bg {
+        padding: 14px;
+        font-size: 30px;
+        border-radius: 20px 20px 0px 0px;
+    }
+    .font {
+        font-size: 18px;
+    }
+    .back {
+        padding: 16px;
+        font-size: 30px;
+    }
+    .footer {
+        padding: 16px;
+        margin-right: 14px;
+    }
+}
